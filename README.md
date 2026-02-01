@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kevy-k;Building+Scalable+Flutter+Apps;Architecting+AI-Driven+Solutions;Crafting+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Kevy-k;Building+Scalable+Flutter+Apps;Architecting+AI-Driven+Solutions;Crafting+Digital+Experiences" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 MCA Student (2024-2026) | Team Lead | Flutter & Python Developer</h3>

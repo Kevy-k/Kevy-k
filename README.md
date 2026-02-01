@@ -55,7 +55,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center" width="500"> 
+<div align="center" width="500px"> 
   <a href="mailto:kevinkoshy2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>

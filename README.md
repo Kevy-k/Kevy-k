@@ -5,7 +5,7 @@
 <h3 align="center">🚀 MCA Student (2024-2026) | Flutter, Python & Node.js Developer</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Web%20Solutions-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Mobile%2C%20Desktop%20%26%20Web-blue?style=for-the-badge" />
 </div>
 
 ---
